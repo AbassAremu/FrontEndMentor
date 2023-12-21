@@ -178,7 +178,7 @@
     .mainContainer {
         align-items: start;
         width: 100%;
-        height: 100%;
+        height: 100vh;
     }
     .mainContainer .resultContainer {
         grid-template-columns: 1fr;
